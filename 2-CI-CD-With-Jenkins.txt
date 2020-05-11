@@ -19,4 +19,20 @@ Available Tools for CI/CD
 > Buildbot
 > AnthillPro
 
+SDLC
+> automation via Jenkins (1000+ build and publish release in a day)
 
+Plugin EcoSystem
+> very rich
+> strong community
+> build your own plugin
+
+Increased Productivity
+> automate repeat job
+> agile in nature
+
+Jenkins 
+> Open Source Platform For Implementing DevOps Pipelines
+> Cross Platform
+> Extensible With Plugins
+> Tried and Tested
