@@ -1,0 +1,22 @@
+Benefits
+> Reduced risk
+> Increased confidence
+> Better quality code
+> Ready to ship code
+> Systematic versioning
+> Code quality trend analysis
+> Time to market
+> Reduced cost
+
+Available Tools for CI/CD
+> Bamboo
+> Circleci
+> Continiim
+> Visual Studio
+> Travis CI
+> CruiseControl
+> TeamCity
+> Buildbot
+> AnthillPro
+
+
