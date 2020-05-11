@@ -1,0 +1,8 @@
+Features of Jenkins
+> Increased Productivity
+> CI/CD pipe line
+> Raid Upgrades
+> Easy Installation
+> Master/Salve Arch
+> Personalized Notification
+> Integration over 1000 Plugins
