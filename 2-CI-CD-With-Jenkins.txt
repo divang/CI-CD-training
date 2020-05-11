@@ -29,10 +29,22 @@ Plugin EcoSystem
 
 Increased Productivity
 > automate repeat job
-> agile in nature
+> agility in nature
 
 Jenkins 
 > Open Source Platform For Implementing DevOps Pipelines
 > Cross Platform
 > Extensible With Plugins
 > Tried and Tested
+
+Jenkins Setup with help of Plugins
+> Buid -> Maven
+> Version Control -> git
+> Continuous Monitoring -> Nagios
+> Continous Testing -> Selenium
+> Configuation Management -> Puppet
+> Continous Deployment -> Ansible
+
+Jenkins Arch (Written in Java)
+> master -> SCM Repo
+> slave -> Job (JVM)
