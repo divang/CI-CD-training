@@ -22,3 +22,16 @@ Install Jenkins [https://www.jenkins.io/doc/book/installing/#red-hat-centos]
 
 > sudo systemctl start jenkins
 > sudo systemctl status jenkins
+> chkconfig jenkins on [while restart linux, auto run]
+
+> hostname [jenkins hostname to add in etc host file]
+> etc host file
+> <ip> <jenkins hostname>
+
+> <jenkins hostname>:8080
+
+> Admin password
+> /var/lib/jenkins/secrets/initialAdminPassword [AdminPassword]
+
+> Install suggested plugins
+
