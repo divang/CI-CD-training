@@ -34,4 +34,24 @@ Install Jenkins [https://www.jenkins.io/doc/book/installing/#red-hat-centos]
 > /var/lib/jenkins/secrets/initialAdminPassword [AdminPassword]
 
 > Install suggested plugins
+> OWASP: Open Source Foundation for Application Security
 
+> Create Task
+> Free style
+> Help tools
+> Project is parameterized
+> Source code: Git
+> Git URL
+> Build Triggers
+  > schedule
+> Discard old build
+
+> Build
+  > execute shell
+> Maven
+  > package
+> Mail
+
+> Env variable
+  > BUILD_NUMBER
+  
