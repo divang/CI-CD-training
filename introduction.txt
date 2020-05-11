@@ -34,7 +34,11 @@ Course Components
 > 8 Lesson-End Projects
 > 2 Course-End Projects
 > 2 Course-End Assessments
-
 > FindBugs
 > SonarQube
 > Deployment with Tomcat
+
+Jenkins Learning Outcomes
+> Features
+> Install & Configure Jenkins
+> Automate your DevOps flows
