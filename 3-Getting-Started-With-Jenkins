@@ -1,0 +1,24 @@
+Oracle VirtualBox
+> http://go.tetranoodle.com/virtualbox
+> CentOS 7
+
+> Windows
+> Putty
+
+> ip a
+> java
+> /usr/lib/jvm/<jdk folder>
+> vi ~/.bash_profile
+export JAVA_HOME=/usr/lib/jvm/<jdk folder>
+PATH=$PATH:$JAVA_HOME/bin
+> Source ~/.bash_profile
+
+Install Jenkins [https://www.jenkins.io/doc/book/installing/#red-hat-centos]
+> sudo yum install wget
+> sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+> sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+> sudo yum upgrade
+> sudo yum install jenkins java-1.8.0-openjdk-devel
+
+> sudo systemctl start jenkins
+> sudo systemctl status jenkins
