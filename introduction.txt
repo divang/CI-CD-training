@@ -26,6 +26,15 @@ Course Outcome
 > Jenkins pipeline
 > JaCoCo
 > Jmeter
+
+Course Components
+> Instructor-Led Training
+> 40 Assisted and Unassisted Practices
+> 8 Knowledge Checks
+> 8 Lesson-End Projects
+> 2 Course-End Projects
+> 2 Course-End Assessments
+
 > FindBugs
 > SonarQube
 > Deployment with Tomcat
