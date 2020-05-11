@@ -14,3 +14,5 @@ Course Outline
 > Configuring Build Pipelines
 > Automated Testing in Jenkins
 > Code Quality Improvement using Jenkins
+> Automated Deployment and Continuous Delivery
+> Distributed System in Jenkins
