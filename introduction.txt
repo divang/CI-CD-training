@@ -6,3 +6,11 @@ Features of Jenkins
 > Master/Salve Arch
 > Personalized Notification
 > Integration over 1000 Plugins
+
+Course Outline
+> Intro
+> Getting Started with Jenkins
+> Setting Up Build Jobs 
+> Configuring Build Pipelines
+> Automated Testing in Jenkins
+> Code Quality Improvement using Jenkins
