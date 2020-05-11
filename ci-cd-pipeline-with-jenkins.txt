@@ -3,7 +3,7 @@ DevOps Life Cycle
 the development and operations team under an umbrella 
 of tools to automate evry stage.
 
-> DevOps Phases
+DevOps Phases
 > Plan (git, Jira Software)
 > Code (GitLab, GitHub)
 > Build (maven, gradle)
