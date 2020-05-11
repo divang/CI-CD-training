@@ -54,4 +54,15 @@ Install Jenkins [https://www.jenkins.io/doc/book/installing/#red-hat-centos]
 
 > Env variable
   > BUILD_NUMBER
+ 
+> Auto refresh
+
+> Manage Jenkins (Pipeline)
+  > Available
+    > Build Pipeline
+      > install
+> +
+  > name
+  > Build Pipeline View
+  > apply and ok
   
