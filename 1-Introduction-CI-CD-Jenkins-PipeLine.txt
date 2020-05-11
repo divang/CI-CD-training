@@ -42,3 +42,18 @@ Jenkins Learning Outcomes
 > Features
 > Install & Configure Jenkins
 > Automate your DevOps flows
+
+DevOps Life Cycle
+> DevOps is a software engineering culture that unites 
+the development and operations team under an umbrella 
+of tools to automate evry stage.
+
+DevOps Phases
+> Plan (git, Jira Software)
+> Code (GitLab, GitHub)
+> Build (maven, gradle)
+> Test (cucumber, juint, selenium)
+> Integrate (jenkins)
+> Deploy (bmc)
+> Operate (chef, ansible, puppet, docker)
+> Monitor (Grafana, Wireshark)
