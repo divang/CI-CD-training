@@ -16,3 +16,16 @@ Course Outline
 > Code Quality Improvement using Jenkins
 > Automated Deployment and Continuous Delivery
 > Distributed System in Jenkins
+
+Course Outcome
+> Git and Maven
+> Master/Slave Arch
+> Jenkins Jobs
+> Unit testing with jenkins
+> Unit testing with jenkins
+> Jenkins pipeline
+> JaCoCo
+> Jmeter
+> FindBugs
+> SonarQube
+> Deployment with Tomcat
