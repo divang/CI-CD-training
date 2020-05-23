@@ -57,3 +57,10 @@ DevOps Phases
 > Deploy (bmc)
 > Operate (chef, ansible, puppet, docker)
 > Monitor (Grafana, Wireshark)
+
+Good reference points:
+https://www.softwaretestinghelp.com/types-of-software-testing/
+https://www.guru99.com/jenkins-vs-travis.html
+https://blog.valiantys.com/en/dev-tools-en/jenkins-vs-bamboo/
+https://www.elegantthemes.com/blog/wordpress/github-vs-bitbucket
+https://www.datarespons.com/atlassian-suite-tools-for-every-team-and-more-agility-in-projects/
